@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice to creditors, or, A safe and secure way to secure bad debts such debts as the debtors are poor and are not able to pay them ... / by one who is a lover of Christianity.</title>
+            <author>One who is a lover of Christianity.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26450</idno>
+            <idno type="STC">Wing A646</idno>
+            <idno type="STC">ESTC R7856</idno>
+            <idno type="EEBO-CITATION">12325923</idno>
+            <idno type="OCLC">ocm 12325923</idno>
+            <idno type="VID">59554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59554)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 908:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advice to creditors, or, A safe and secure way to secure bad debts such debts as the debtors are poor and are not able to pay them ... / by one who is a lover of Christianity.</title>
+                  <author>One who is a lover of Christianity.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sold by John Guillim,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debtor and creditor --  Great Britain --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:59554:1" rendition="simple:additions"/>
+            <head>Advice To CREDITORS, Or a Safe and Sure way
+<hi rend="blackletterType">To Secure Bad Debts,</hi> Such Debts as the Debtors are Poor and are not Able to Pay them; and that without Wronging or Preju<g ref="char:EOLhyphen"/>dicing the Poor Debtors: And ſhowing how to Lend, ſo as not to miſs of being Paid again.</head>
+            <byline>By one who is a Lover of Chriſtianity.</byline>
+            <epigraph>
+               <q>
+                  <bibl>Heb. 10.24.</bibl>
+                  <p>
+                     <hi>And let us conſider one another, to provoke unto Love and to Good Works.</hi>
+                  </p>
+               </q>
+               <q>
+                  <bibl>Prov. 31.8.</bibl>
+                  <p>
+                     <hi>Open thy Mouth for the Dumb, in the cauſe of all ſuch as are appointed to Deſtruction.</hi>
+                  </p>
+               </q>
+               <q>
+                  <bibl>Verſe 9.</bibl>
+                  <p>
+                     <hi>Open thy Mouth, Judge Righteouſly, and Plead the Cauſe of the Poor and Needy.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p rend="blackletterType">Licens'd, <date>October 1. 1687.</date>
+            </p>
+            <p>HOw ſhall he that has ſeveral Debts owing to him from ſuch Per<g ref="char:EOLhyphen"/>ſons that are Poor and have nothing to pay, how may the Creditor ſecure himſelf ſo as to be paid, and not hurt or preju<g ref="char:EOLhyphen"/>dice the poor Debtors?</p>
+            <p>
+               <hi>Anſwer.</hi> It is good for the Creditor in ſuch a caſe to take good and ſuffi<g ref="char:EOLhyphen"/>cient Security, that is able and willing to pay; and when he has engaged him to it, to look for it and expect to receive it wholly from the Security, and not from the firſt Debtor, he being not able to pay it.</p>
+            <p>
+               <hi>Objection.</hi> But the Creditor may ſay I would be glad to take ſuch Secu<g ref="char:EOLhyphen"/>rity as you ſpeak of, and I would do it with all my heart; but men that<pb n="2" facs="tcp:59554:2"/>are able are not ſo willing to engage themſelves to pay other mens Debts for them; how then can I do thus as you ſay to be paid?</p>
+            <p>
+               <hi>Anſ.</hi> Firſt let me ask you this queſtion: Do you believe the Scriptures, the Old and New Teſtament to be the Revealed will of God?</p>
+            <p>
+               <hi>Anſ.</hi> Yes I do, for who that profeſſes himſelf a Chriſtian will deny that?</p>
+            <p>
+               <hi>Queſt.</hi> 2. And do you believe what is written in the Scriptures to be true, and that the promiſes and threatnings will certainly be per<g ref="char:EOLhyphen"/>formed?</p>
+            <p>
+               <hi>Anſ.</hi> Yes I do believe this.</p>
+            <p>Then pray ſeriouſly conſider this Scripture in
+<hi>Prov.</hi> 19.17. <hi>He that hath pity upon the Poor, lendeth unto the Lord, and that which he hath given will he pay him again.</hi>
+            </p>
+            <p>Now if you ſhould have ſo much pity on your poor Debtor, that inſtead of Arreſting of him and caſting him into Priſon, and taking the Rigor of the Law againſt him, which you have power to do, yet if you ſhould put forth ſuch a Noble Act of Grace and Mercy and Pity to your poor Debtor
+[he being not able to pay you] as to give him all that is owing to you, and to give him a perfect and full diſcharge from under your hand; and if you do thus, have you not then had pity upon the Poor, and given him ſo much as your juſt Debt was?</p>
+            <p>Then for that which you have given to the Poor, you may take God for your Security, who is able and is willing to pay you, and has pro<g ref="char:EOLhyphen"/>miſed in his word, that he will pay you again. This promiſe is made as much to you as if your Name had been particularly therein mentioned, if you have had pity upon the Poor, and have given to the Poor: Then you are one of thoſe that this Promiſe belongs unto. O what Security is here! is God willing to be the Poor Mans Security, and do you refuſe to accept of him alone for your Security, ſo as to freely acquit and diſcharge your poor Debtor without payment, he being not able to pay you?</p>
+            <p>Now ſo long as you do not diſcharge your poor Debtor of that which he oweth you, it is not given unto him, becauſe he ſtands ſtill engag'd to pay it if ever he is able; and tho he is not able to pay it, yet he is in danger of being Arreſted and caſt into Priſon for it, and there to live until the Debt be paid; which he may never be able to do ſo long as he lives. And if you ſhould ſerve your poor Debtor thus, that is not able to pay you: conſider this, If you were in his condition, would you willingly have another deal ſo by you? <hi>Luke</hi> 6.31. <hi>And as ye would that men ſhould do to you, do ye alſo to them likewiſe:</hi> And <hi>Mat.</hi>
+7.12. <hi>Therefore all things whatſoever you would that men ſhould do to you, do you even ſo to them, for this is the Law and the Prophets.</hi> Now this is the Law that Chriſt lays down before men to be obſerved and obeyed; and the not obeying this Law is Sin. Now this general Rule ought to be obſerved both by the Debtor and Creditor: the Debtor ought to deal ſo to his Creditor as he would wil<g ref="char:EOLhyphen"/>lingly any Debtor of his at any time ſhould deal ſo by him, his Debtor be<g ref="char:EOLhyphen"/>ing<pb n="3" facs="tcp:59554:2" rendition="simple:additions"/>in the like condition; and the Creditor ought to deal ſo with his Debtor, as he would willingly that any Creditor of his at any time ſhould deal ſo by him, he being in the like condition to his Creditor, as his Deb<g ref="char:EOLhyphen"/>tor is to him, 1 <hi>Tim.</hi> 1.8,9,10. the 8 <hi>Verſe. But we know that the Law is good if a Man uſe it Lawfully. Micah</hi> 7.8. <hi>He hath ſhewed thee, O Man, what is good, and what doth the Lord require of thee, but to do Juſtly, and love Mercy, and to walk humbly with thy God?</hi> God requires this of us, <hi>To love Mercy.</hi> Now thoſe that will ſhew no mercy to their poor Debtors that are not able to pay them, let them have a care that they do not ſhut themſelves out from Mercy, <hi>James</hi> 2.13. <hi>For he ſhall have Judgment with<g ref="char:EOLhyphen"/>out Mercy that hath ſhowed no Mercy, and Mercy rejoyceth against Judgment,</hi> Prov.
+11.17,18,19,20,21. the 17<hi>V. The Merciful Man doth good to his own Soul; but he that is Cruel troubleth his own Fleſh, Gal.</hi> 6.7. <hi>Be not deceived, God is not mocked, for whatſoever a Man Soweth, that ſhall he alſo Reap, Mat.</hi> 18.21. to the end of the Chapter.</p>
+            <p>V. 21. <hi>Then came</hi> Peter <hi>to him and ſaid, Lord how oft ſhall my Brother Sin againſt me, and I forgive him? till ſeven times?</hi> 22. <hi>Jeſus ſaith unto him, I ſay not unto thee, until ſeven times, but until ſeventy times ſeven.</hi> 23. <hi>There<g ref="char:EOLhyphen"/>fore is the Kingdom of Heaven likened unto a certain King which would take account of his Servants.</hi> 24. <hi>And when he had begun to reckon, one was brought unto him which owed him ten thouſand Talents.</hi> 25. <hi>But for as much as he had not to pay, his Lord commanded him to be ſold, and his Wife and Chil<g ref="char:EOLhyphen"/>dren, and all that he had, and payment to be made.</hi> 26. <hi>The Servant therefore fell down, and Worſhipped him, ſaying, Lord, have patience with me and I will pay thee all.</hi> 27. <hi>Then the Lord of that Servant was moved with Com<g ref="char:EOLhyphen"/>paſſion and looſed him, and forgave him the Debt.</hi> 29. <hi>But the ſame Servant went out and found one of his Fellow Servants which owed him an hundred Pence, and he laid Hands on him, and took him by the Throat, ſaying pay me that thou oweſt.</hi> 29. <hi>And his Fellow Servant fell down at his Feet and be ſought him, ſaying, Have patience with me and I will pay thee all.</hi> 30. <hi>And he would not, but went and caſt him into Priſon till he ſhould pay the Debt.</hi> 31.
+<hi>So when his Fellow Servants ſaw what was done, they were very ſorry, and came and told unto their Lord all that was done.</hi> 32. <hi>Then his Lord after that he had called him, ſaid unto him, O thou Wicked Servant, I forgave thee all that Debt becauſe thou deſireſt me,</hi> 33. <hi>ſhouldeſt not thou alſo have had Com<g ref="char:EOLhyphen"/>paſſion on thy Fellow Servant, even as I had Pity on thee?</hi> 34. <hi>And his Lord was Wroth, and delivered him to the Tormentors, till he ſhould pay all that was due unto him.</hi> 35. <hi>So likewiſe ſhall my Heavenly Father do alſo unto you, if ye from your Hearts forgive not every one his Brother their Treſpaſſes.</hi>
+            </p>
+            <p>But ſome may ſay we ought to ſhow Mercy unto our poor Debtors when they are honeſt and would pay, but have it not to pay neither in Money nor in Goods; but yet what need we give our poor Debtors a diſ<g ref="char:EOLhyphen"/>charge, is it not as well if we let them alone and do not trouble them, for though they are not able to pay us now, we don't know but in time they may be able to pay us?</p>
+            <p>
+               <pb n="4" facs="tcp:59554:3"/>
+               <hi>Anſ.</hi> I muſt confeſs this is a kindneſs, and ought to be conſidered and owned by the Debtor as a great favour, when his Creditor will forbear troubling of him: and you that do for bear troubling your poor Debtors, God is able to incline the Hearts of ſome that you may be Indebted unto, to ſhow you the like favour of forbearance,
+<hi>Mat.</hi> 7.2. <hi>And with what mea<g ref="char:EOLhyphen"/>ſure ye meet, it ſhall be meaſured to you again.</hi> But forbearance is no pay<g ref="char:EOLhyphen"/>ment, and as long as the Debtor is under any Obligation to pay it, then it is not given; and if it is not given, then you have only your poor Deb<g ref="char:EOLhyphen"/>tor for your Security; then God is not engaged to pay this Debt, becauſe it is not given to the poor<g ref="char:punc">▪</g> for they that do not give unto the poor, have no right to thoſe Promiſes that are made to them that do give, but ſhut themſelves out from the Bounds and Limits of all thoſe Promiſes, with their not giving: But God has promiſed to pay that to you again which you have given unto the Poor; when a Creditor doth freely diſcharge a poor Debtor of a juſt Debt without payment, and acquit him as much as if he had really paid him, then that which was really due to him before from his Debtor, it is then, and not until then, declared to be given. Now if a Creditor diſcharging a poor Debtor without payment, by giving him ſo much as their juſt Debt was; then they that thus give, have a right unto all thoſe Promiſes that are made unto them that give unto the Poor, <hi>Prov.</hi> 19.17. <hi>He that hath pity upon the Poor, lendeth unto the Lord, and that which he hath given, will he pay him again.</hi> O what Security is here! who would not acquit or diſcharge a poor Debtor that is not able to pay his Debt, to have the Debt removed from him to one that is able and willing to pay it, and will engage himſelf to pay it: do you think it is poſſible ever to find better Security then God himſelf, promiſing in his Word to pay you again? There is no better Security in the World; no nor in Hea<g ref="char:EOLhyphen"/>ven neither, then to have the Lord God of Heaven and Earth to be Indeb<g ref="char:EOLhyphen"/>ted to you by Promiſe. Now if you were not afraid to Lend unto poor Mortal Men, why ſhould you be unwilling to lend unto the Lord? which you may do by giving unto the Poor, and that which you have given will he pay you again. Now how eaſily may they that have ſeveral Debts owing them from ſuch who are poor and have nothing to pay, ſecure to themſelves that which is owing to them, if they would give their Debtors freely a clear diſcharge without payment or any conditions to Oblige them to pay it. When a Creditor hath done thus to his poor Debtor, then hath he given him ſo much as his juſt Debt was; and that which he hath given, will the Lord pay him again; the Lord is willing to be the poor Mans Security: But what is the matter why you do not take his Word and Promiſe for your Security? Do you think he is not able to pay you, or do you think that he will not perform what he hath promiſed in his Word? The Juſtice, Power, Wiſdom, and Righteouſneſs of God are engaged to perform what he hath promiſed in his Word: why then are you ſo backward and ſo unwilling to take Gods Word, and to believe
+<pb n="5" facs="tcp:59554:3"/>that what he hath promiſed ſhall not be performed. He who made the Heavens and the Earth, and all that in them is, He who is Infinite in all his Attributes, in Power, in Wiſdom, Juſtice and Righteouſneſs, and ſhall we refuſe to venture theſe ſmall Temporal things upon the promiſes of Gods Word? Shall we deny to give to the Poor according to the ability which God hath given to us, when that which we have given un<g ref="char:EOLhyphen"/>to the Poor, the Lord doth take it as lent unto himſelf, and has promiſed to pay us again? How will you make it appear unto others, that you are a Believer, and that you do believe God upon his Word, with re<g ref="char:EOLhyphen"/>ſpect unto your Eternal Salvation, when you do declare by your Actions, that you dare not take Gods Word or believe his Promiſes for five, or ten, or twenty, or a hundred Pounds, which may be owing to you from your poor Debtor, which is not able to pay you? Oh! how do you diſhonour God with your Unbelief, and caſt a reflection upon God, as if either he had not power to perform what he hath promiſed, or elſe was not willing to do what he promiſed? Oh! how do you caſt a refle<g ref="char:EOLhyphen"/>ction upon the Power and Faithfulneſs, Juſtice and Righteouſneſs of God, who is infinite in Power and Righteouſneſs, and in all his Attributes? Now though <hi>
+                  <g ref="char:V">Ʋ</g>nbelief</hi> may ſpeak thus, <hi>If I give unto the Poor, this is the way to lack my ſelf.</hi> But what ſaith the Scripture? If the Scripture ſpeaks the contrary things, we ought to believe what the Word of God in the Scripture ſaith. See <hi>Pov.</hi> 28.27.
+<hi>He that giveth unto the Poor ſhall not lack; but he that hideth his Eyes ſhall have many a Curſe: Prov.</hi> 11.24.25. <hi>There is that ſcattereth; and yet increaſeth, and there is that with-holdeth more then is meet, but it tendeth to Poverty.</hi> 25. <hi>The Liberal Soul ſhall be made Fat; and he that Watereth, ſhall be Watered alſo himſelf. Prov.</hi>
+10.22. <hi>The Bleſſing of the Lord it maketh rich, and he addeth no Sorrow with it: Pſal.</hi> 41.1,2,3. 1ſt. <hi>Bleſſed is he that conſidereth the Poor, the Lord will deliver him in time of Trouble.</hi> 2d. <hi>The Lord will preſerve him and keep him alive; and he ſhall be bleſſed upon the Earth, and thou wilt not deliver him to the will of his Enemies.</hi> 3d.
+<hi>The Lord will strengthen him upon the Bed of Languiſhing; thou wilt make all his Bed in his Sickneſs. Deut.</hi> 15.1. to 12; the 7<hi>th. If there be among you a Poor Man of one of thy Brethren within any of thy Gates in thy Land which the Lord thy God giveth thee, thou ſhalt not harden thy Heart nor ſhut thine Hand from thy poor Brother.</hi> 8th. <hi>But thou ſhalt open thine Hand wide unto him, and ſhalt ſurely lend him ſufficient for his need in that which he wanteth.</hi> 9th. <hi>Beware that there be not a thought in thy wicked Heart, ſaying, The ſeventh Year, the Year of Releaſe is at hand, and thine Eye be Evil againſt thy poor Brother; and thou giveſt him nought, and he cry unto the Lord againſt thee, and it be Sin unto thee.</hi>
+10th. <hi>Thou ſhalt ſurely give him; and thine Heart ſhall not be grieved when thou giveſt unto him, becauſe that for this thing the Lord thy God ſhall Bleſs thee in all thy works, and in all that thou putteſt thine Hand unto.</hi> 11th. <hi>For the Poor ſhall never ceaſe out of the Land; therefore I command thee, ſaying, Thou ſhalt open thine Hand wide</hi>
+               <pb n="6" facs="tcp:59554:4"/>
+               <hi>unto thy Brother, to thy Poor, and to thy Needy in the Land.</hi> 2 Cor. 9.6. to the end of the Chapter. The 6th. <hi>But this I ſay, He which Soweth Sparing<g ref="char:EOLhyphen"/>ly, ſhall Reap Sparingly; and he which Soweth Bountifully, ſhall Reap Bounti<g ref="char:EOLhyphen"/>fvlly.</hi> The 7th. <hi>Every man according as he purpoſeth in his Heart, ſo let him give, not grudgingly or of neceſſity, for God loveth a Chearful giver.</hi> 8th. <hi>And God is able to make all Grace abound towards you, that ye always having all ſufficiency in all things, may abound to every good work.</hi> 9th. <hi>As it is written, He hath diſperſed abroad, he hath given to the poor, his Righteouſneſs remaineth for ever.</hi> Iſa. 58. from the 1 to the 12 Verſe. The 6th.
+<hi>Is not this the Faſt that I have choſen, to looſe the Bands of Wickedneſs, to undo the heavy Burdens, and to let the Oppreſſed go free, and that ye break every Yoke.</hi> 7th. <hi>Is it not to deal thy Bread to the Hungry, and that thou bring the Poor that are caſt out to thy Houſe; when thou ſeeſt the Naked, that thou cover him; and that thou hide not thy ſelf from thine own Fleſh.</hi> 8th. <hi>Then ſhall thy Light break forth as the morning, and thy Health ſhall ſpring forth ſpeedily, and thy Righteouſneſs ſhall go before; thee the Glory of the Lord ſhall be thy rere<g ref="char:EOLhyphen"/>ward.</hi> 9th. <hi>Then ſhalt thou call, and the Lord ſhall anſwer; thou ſhalt cry, and he ſhall ſay here am I; if thou take away from the midſt of thee the Yoke, the putting forth of the Finger and ſpeaking Vanity.</hi> 10th. <hi>And if thou draw out thy Soul to the Hungry, and ſatisfy the Afflicted Soul, then ſhall thy Light riſe in obſcurity, and thy Darkneſs be as the Noon-day.</hi> 11th. <hi>And the Lord ſhall Guide thee continually, and ſatisfy thy Soul in Drought, and make Fat thy Bones; and thou ſhalt be like a Watered Garden, and like a Spring of Water, whoſe Waters fail not.</hi> Matt. 5.42. <hi>Give to him that asketh thee; and from him that would borrow of thee, turn not thou away.</hi> Luke 6.27. to the 38. Verſe the 24. <hi>And if ye lend to them of whom ye hope to receive, what thank have ye? for Sinners alſo lend to Sinners to receive as much again.</hi> 25th. <hi>But love ye your Enemies, and do good, and lend, hoping for nothing again, and your reward ſhall be great, and ye ſhall be the Children of the Highest, for he is kind unto the <g ref="char:V">Ʋ</g>nthankful, and to the Evil.</hi>
+            </p>
+            <p>Now for that which you Lend or Truſt, ſo long as you hope or expect to receive of your Debtor ſo much again, what thank have ye? This is not given: Then God hath not promiſed to pay this again, but your poor Debtors Bill or Bond, who is not able to pay you, may be all that you may have to truſt to for your Security of being paid again; but if you lend unto ſuch as are poor and are in want, and at that time do not ex<g ref="char:EOLhyphen"/>pect that you ſhall receive it of them again; and afterwards becauſe they are poor, diſcharge them, and make it known to them that you hope for nothing again from them; then this is given unto the poor, and your re<g ref="char:EOLhyphen"/>ward ſhall be grea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Luke 6.32,33,34. <hi>For if you love them which love you; and if you do good to them which do good to you; and if ye lend to them of whom ye hope to receive, what thank have ye? For Sinners alſo do even the ſame.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:59554:4"/>Now theſe tbings may be found in thoſe that are Unconverted: But for a Man to love his Enemies, and do good, and lend hoping for nothing again, for a man diſcharging his poor Debtors, and to take Gods Word and Promiſe for his Security: Theſe things are counted fooliſhneſs with Carnal and Natural Men, Rom. 8.7. 1 Cor. 2.14. <hi>But for thoſe that are obedient to Gods Word and do thus, it is a ſign that God hath wrought Grace in their Hearts, and hath made them his Children, and that ſuch good Works as theſe are the Fruits and Effects of that Grace, Faith and Love, that God hath wrought in their Hearts; and theſe Fruits appearing in their Lives and Con<g ref="char:EOLhyphen"/>verſations, therefore ſaith Chriſt in</hi> Luke
+6.35,43,44,45,46. 35th. <hi>But love ye your Enemies, and do good, and lend hoping for nothing again, and your reward ſhall be great, and ye ſhall be the Children of the Higheſt, for he is kind unto the <g ref="char:V">Ʋ</g>nthank<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ful and to the Evil.</hi> 43d. <hi>For a good Tree bringeth not forth corrupt Fruit; neither doth a corrupt Tree bring forth good Fruit.</hi> 44th. <hi>For every Tree is known by its own Fruit; for of Thorns men do not gather Figgs; nor of a Bramble-buſh gather they Grapes.</hi> 45th. <hi>A good man out of the good Treaſure of his Heart bringeth forth that which is good; and an evil man out of the evil Treaſure of his Heart, bringeth forth that which is evil; for of the abundance of the Heart his Mouth ſpeaketh.</hi> 46th. <hi>And why call ye me Lord, Lord, and do not the things which I ſay?</hi>
+            </p>
+            <p>Now when you have truſted or lent unto them that you might think that they was of Ability to pay you again, but afterwards you find them poor and not able to pay you; now if you ſhould diſcharge them, then have you given to the poor ſo much as was due to you; then may you by Faith lay hold on thoſe Promiſes that are made to thoſe that give unto the Poor; then you may take Gods Word and Promiſe for your Security. Prov. 19.17. <hi>He that hath pity upon the Poor, lendeth unto the Lord, and that which he hath given will he pay him again.</hi>
+            </p>
+            <p>Now which do you think to be the beſt Security, Gods Word and Pro<g ref="char:EOLhyphen"/>miſe, or your Poor Debtors Bill or Bond, who is not able to pay you, judge you? Luke 6.38. <hi>Give and it ſhall be given unto you, good meaſure, preſſed down, and ſhaken together, and running over, ſhall men give into your Boſome; for with the ſame meaſure that ye meet withal, it ſhall be meaſured to you again.</hi> 2 Cor. 8.11,12. <hi>Now therefore perform the doing of it, that as there was a readineſs to Will, ſo there may be a performance alſo out of that which you have.</hi> 12th. <hi>For if there be firſt a Willing Mind, it is accepted according to that a man hath, and not according to that he hath not.</hi> Mat. 10.42. <hi>And whoſo<g ref="char:EOLhyphen"/>ever ſhall give to drink unto one of theſe little Ones a Cup of cold Water, only in the Name of a Diſciple, verily I ſay unto you, he ſhall in no wiſe loſe his reward.</hi> Mark. 12.41,42,43,44. Epheſ. 4.32. Coloſ.
+3.12,13,14,15. Mat. 6.12,14,15. Mat. 7.1,2. Mat. 18.35. Luke
+7.41,42,43,44,45,46.47. John 13.34,35. John. 14.21,22,23,24. John
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 1 John 3.13. to the end of the Chapter. 1 John 4.7.<pb n="8" facs="tcp:59554:5"/>to the 15. Mat. 25.13, to the end. Prov.
+21.12,13. Zechar. 7.9, to to the 14. Prov. 1.20, to the end. Prov.
+3.7,8,9,10,13,14,15,16,17,18,27,28. Epheſ. 6.8. Phil. 4.1. to the 20. James
+1.27. Mat. 6.1,2,3,4. 2 Cor. 8 and 9 Chapters. Rom. 12.8, to the end. Dut.
+32.35,36. Prov. 25.21,22. Gal. 6.6,7,8,9,10. Mal. 3.5, to the end. James 2 Chapter. Prov. 14.20,21,31. Luke 14.12,13,14. Prov. 22.7,8,9,16,22,23. Amos
+5.11,12,13,14. Mal. 3.5. James 5.1,2,3,4,5,6. Pſal. 140.11,12,13. Luke
+12.47,48. Mat. 19.16, to the end. 1 Tim. 4.7,8. Mark 10.17, to the 31. Luke 18
+18, to the 31. Pſal. 84.11,12. Rom. 28.32. Acts 20.33,34,35. Job 16. to the
+23. Acts 10.1,2,30,31,32,33,34,35,36,43,44. Acts 9.36,37,38,39,40,41. Luke
+12.32,33,34. Acts 2.44,45,46,47. Acts 11.28,29,30. Acts 4.32, to the end. Zecharia 7.8,9,10,11,12,13,14. The 8th. Verſe, <hi>And the Word of the Lord came unto</hi> Zecharia, <hi>ſaying,</hi> The 9th. Verſe. <hi>Thus ſpeaketh the Lord of Hosts, ſaying, Execute true Judgment, and ſhew mercy and compaſſion every man to his Brother.</hi> The 10th. <hi>And oppreſs not the Wi<g ref="char:EOLhyphen"/>dow, nor the Fatherleſs, the Stranger, nor the Poor, and let none of you im<g ref="char:EOLhyphen"/>agine Evil againſt his Brother in your Heart.</hi> The 11th. Verſe. <hi>But they re<g ref="char:EOLhyphen"/>fuſed to hearken, and pulled away the ſhoulder, and ſtopped their ears that they ſhould not hear.</hi> The 12th. Verſe.
+<hi>Yea, they made their Hearts as an a<g ref="char:EOLhyphen"/>damant ſtone, leſt they ſhould hear the Law, and the words which the Lord of Hoſts hath ſent in his Spirit by the former Prophets; therefore came a great Wrath from the Lord of Hoſts.</hi> 13th Verſe. <hi>Therefore it is come to paſs, that as he cried, and they would not hear, ſo they cried, &amp; I would not hear, ſaith the Lord of Hoſts.</hi> The 14th. Verſe. <hi>But I ſcattered them with a Whirlwind among all the Nations whom they knew not: thus the Land was deſolate after them, that no man paſſed through nor returned; for they laid the pleaſant Land deſolate.</hi> Prov. 21.12.13. verſe 13.
+<hi>Whoſo ſtopeth his Ears at the cry of the Poor, he alſo ſhall cry himſelf, but ſhall not be heard.</hi> 1 John 4.20,21. 1 John 3.16,17,18. verſe 17. <hi>But whoſo hath this Worlds good, and ſeeth his Brother have need, and ſhuteth up his bowels of compaſſion from him, how dwelleth the love of God in him?</hi> verſe 18. <hi>My little Children, let us not love in word, neither in tongue, but in deed, and in truth.</hi> Epheſ. 2.8,9,10. Titus 2.13,14. Titus 3.3,4,5,6,7,8. Verſe the 8th. <hi>This is a faithful ſaying, and theſe things I will that thou affirm conſtantly, that they which have believed in God might be careful to maintain good Works; theſe things are good and profitable unto men.</hi> 1 Pet. 4.8. <hi>And above all things have fervent Charity among your ſelves, for Charity ſhall cover the multitude of Sins.</hi> Verſe the 9th. <hi>
+                  <g ref="char:V">Ʋ</g>ſe Hoſpitali<g ref="char:EOLhyphen"/>ty one to another without grudging.</hi> Verſe the 10th. <hi>As every man hath re<g ref="char:EOLhyphen"/>ceived the Gift, even ſo Miniſter the ſame one to another, as good Stewards of the manifold Grace of God.</hi> Verſe the 11th, <hi>If any man ſpeak, let him ſpeak as the Oracles of God; if any man miniſter, let him do it as of the ability which God giveth, that God in all things may be Glorified through Jeſus Chriſt, to whom be Praiſe and Dominion for ever and ever, Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for the Author, and are to be ſold by
+<hi>John Guillim,</hi> Bookſeller within <hi>Biſhopſgate,</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
